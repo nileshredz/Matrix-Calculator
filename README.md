@@ -6,10 +6,13 @@ This C++ program will not run on TurboC++ due to it being outdated.
 
 This is Matrix Calculator which will can perform Arithmatic Operations up till 100 Rows and 100 Column.
 
-##It can performs following operations:
+## It can performs following operations:
 * Addition.
 * Substraction.
 * Multiplication.
 * Division.
+
+Output.txt has the Output.
+
 
 Happy Coding :computer:
