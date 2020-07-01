@@ -1,0 +1,38 @@
+Enter Number of Rows(Range 0 to 100): 
+3
+Enter Number of Columns(Range 0 to 100): 
+3
+-----------------------------------------Enter for First Matrix-------------------------------------------
+Enter Elements of 1st matrix: 1
+Enter Elements of 1st matrix: 2
+Enter Elements of 1st matrix: 3
+Enter Elements of 1st matrix: 4
+Enter Elements of 1st matrix: 5
+Enter Elements of 1st matrix: 7 6
+Enter Elements of 1st matrix: 7
+Enter Elements of 1st matrix: 8
+Enter Elements of 1st matrix: 9
+-----------------------------------------Enter for Second Matrix-------------------------------------------
+Enter Elements of 2nd matrix: 9
+Enter Elements of 2nd matrix: 8
+Enter Elements of 2nd matrix: 7
+Enter Elements of 2nd matrix: 6
+Enter Elements of 2nd matrix: 5
+Enter Elements of 2nd matrix: 4
+Enter Elements of 2nd matrix: 3
+Enter Elements of 2nd matrix: 2
+Enter Elements of 2nd matrix: 1
+-----------------------------------------Choose your Calculation Method-------------------------------------------
+What would you like to do about the Matrix
+Enter 1 for Addition
+Enter 2 for Substraction
+Enter 3 for Multiplication
+Enter 4 for Division
+2 3
+-----------------------------------------Results Below-------------------------------------------
+Multiplication of matrix is:
+9 16 21 
+24 25 24 
+21 16 9 
+
+
